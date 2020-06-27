@@ -4,11 +4,11 @@ Lambda school homework assignments
 Unit 1 - iOS Fundamentals 
 
 ## week 1:  Swift Fundamentals.
-    Mon - NOC List Playground
-    Tues -  Git lambda Hello
-    Wed - Airport Departures Playground 
-    Thur - Currency Converter Playground
-    Fri - Sprint Challenge IceCream Shop
+- Mon:  NOC List Playground.
+- Tues:  Git lambda Hello.
+- Wed: Airport Departures Playground. 
+- Thur: Currency Converter Playground.
+- Fri: Sprint Challenge IceCream Shop.
 
 ## week 2: iOS Fundamentals 1.
 Mon - Swift Vocabulary.
