@@ -1,7 +1,7 @@
 # LambdaSchool-Homework-assignments
 Lambda school homework assignments
 
-Unit 1 - iOS Fundamentals 
+# Unit 1 - iOS Fundamentals 
 
 ## week 1:  Swift Fundamentals.
 - Mon:  NOC List Playground.
